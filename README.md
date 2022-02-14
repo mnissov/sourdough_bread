@@ -1,4 +1,4 @@
-# sourdough_calculator
+# sourdough bread resources
 
 https://docs.google.com/spreadsheets/d/18jeeaXbu61j7D2d1bIynj8eJUp5qrXpq-oq-HjkBZj8/edit#gid=0
 
