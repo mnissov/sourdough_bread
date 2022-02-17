@@ -6,4 +6,6 @@ http://www.wraithnj.com/breadpics/rise_time_table/bread_model_bwraith.htm
 
 https://observablehq.com/@mourner/sourdough-calculator
 
-https://www.pizzamaking.com/forum/index.php?topic=22649.0
+[Fermentation calculation forum post](https://www.pizzamaking.com/forum/index.php?topic=22649.0)
+
+[Google sheets calculator](https://docs.google.com/spreadsheets/d/1iD5UuqjDQT2LU1dllclJeTgrQlekKM1Hrsf1gFnHfXo/edit#gid=0)
