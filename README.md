@@ -9,3 +9,5 @@ https://observablehq.com/@mourner/sourdough-calculator
 [Fermentation calculation forum post](https://www.pizzamaking.com/forum/index.php?topic=22649.0)
 
 [Google sheets calculator](https://docs.google.com/spreadsheets/d/1iD5UuqjDQT2LU1dllclJeTgrQlekKM1Hrsf1gFnHfXo/edit#gid=0)
+
+https://docs.google.com/spreadsheets/d/1F_824KvqH1fNGCEdzL2t04ts6Htl0Ud9RU7rrep6LSU/edit#gid=0
